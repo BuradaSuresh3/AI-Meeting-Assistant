@@ -1,0 +1,15 @@
+Weekly AI Meeting
+
+Attendees:
+Suresh, Ravi, Priya
+
+Discussion:
+Frontend development is 70% complete.
+Backend development is 50% complete.
+
+Tasks:
+- Suresh will finish frontend dashboard by Monday.
+- Ravi will complete API integration by Wednesday.
+
+Deadline:
+MVP release scheduled for 25 June 2026.
